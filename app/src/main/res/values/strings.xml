@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Zoo Animals</string>
+    <string name="tv_animal_desc_default">We love animals!</string>
+    <string name="btn_get_animal">Get zoo animal</string>
+</resources>
